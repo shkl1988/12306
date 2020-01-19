@@ -59,7 +59,7 @@ IS_AUTO_CODE = True
 AUTO_CODE_TYPE = 3
 
 # 此处设置云打码服务器地址，如果有自建的服务器，可以自行更改
-HOST = "120.77.154.140:8000"
+HOST = "captcha:80"
 REQ_URL = "/verify/base64/"
 HTTP_TYPE = "http"
 # HOST="12306.yinaoxiong.cn" #备用服务器稳定性较差
